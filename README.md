@@ -1,4 +1,4 @@
 # teach
 This repository is to store PPT's
 
-by me
+In this repository i have stored MySQL PPTs for study purpose only.
